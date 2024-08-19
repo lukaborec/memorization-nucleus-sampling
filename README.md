@@ -1,6 +1,6 @@
 ## Replicating the project
 
-This project contains the code for my MSc thesis _The Unreasonable Ineffectiveness of Nucleus Sampling on Mitigating Text Memorization_.
+This project contains the code for my MSc thesis **_The Unreasonable Ineffectiveness of Nucleus Sampling on Mitigating Text Memorization_**.
 
 Link to paper: TBA
 
